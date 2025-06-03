@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+body {
+    background-color: #f8fffe; /* Set the background color */
+    margin: 20px; /* Add some margin to the body */
+}
+
+.questions {
+    border-left: 8px solid green; /* Left border styling */
+    padding: 15px; /* Padding for the blockquote */
+    margin-top: 20px; /* Margin on top */
+    max-width: 600px; /* Max width for the blockquote */
+}
+
+blockquote {
+    height: 50px; /* Set the height of the blockquote */
+    overflow: hidden; /* Prevent overflow */
+}
